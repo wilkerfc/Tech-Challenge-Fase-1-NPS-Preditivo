@@ -83,7 +83,7 @@ jupyter>=1.0.0
 
 ## 👥 Equipe
 
-Desenvolvido como parte do **Tech Challenge — Pós-graduação em Data Science**
+Desenvolvido como parte do **Tech Challenge — Pós-graduação em Data Science** - **wilkerfc**
 
 ---
 
