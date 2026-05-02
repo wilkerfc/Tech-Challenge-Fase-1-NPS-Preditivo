@@ -56,7 +56,7 @@ nps_preditivo/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/nps-preditivo.git
+git clone https://github.com/seu-usuario/Tech-Challenge-Fase-1-NPS-Preditivo.git
 cd nps-preditivo
 
 # 2. Instale as dependências
