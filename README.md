@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este repositório contém a solução completa do **Tech Challenge Fase 1** do curso de Data Science, com foco em **NPS Preditivo para E-commerce**. O objetivo é transformar dados operacionais em insights acionáveis e construir um modelo de Machine Learning capaz de prever se um cliente será um detrator antes da pesquisa de NPS ser aplicada.
+Este repositório contém a solução completa do **Tech Challenge Fase 1** do curso de  AI Scientist, com foco em **NPS Preditivo para E-commerce**. O objetivo é transformar dados operacionais em insights acionáveis e construir um modelo de Machine Learning capaz de prever se um cliente será um detrator antes da pesquisa de NPS ser aplicada.
 
 ---
 
